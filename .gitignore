@@ -51,6 +51,7 @@ ENV/
 .venv/
 env.bak/
 venv.bak/
+web/.env.local
 
 # ============================================
 # Node.js and Frontend Build
